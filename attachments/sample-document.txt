@@ -1,0 +1,17 @@
+This is a sample document file that will be attached to auto-replies.
+
+You can replace this with your actual documents, PDFs, images, or any other files you want to attach to your automatic email responses.
+
+To add your own attachments:
+1. Place your files in the attachments/ folder
+2. Remove or replace this sample file
+3. The system will automatically attach all files in this folder (except README.txt)
+
+Supported file types:
+- Documents (.pdf, .doc, .docx, .txt)
+- Images (.jpg, .png, .gif)
+- Spreadsheets (.xls, .xlsx, .csv)
+- Archives (.zip, .tar.gz)
+- Any other file type
+
+Note: Large files may fail due to Graph API size limits.
