@@ -1,0 +1,3 @@
+2025-10-03 07:54:20,172 INFO DRY-RUN: Would reply to john.doe@example.com (subject='Re: Question about your product') with 0 attachment(s)
+2025-10-03 07:54:20,173 INFO DRY-RUN: Would reply to jane.smith@example.org (subject='Re: Support request') with 0 attachment(s)
+2025-10-03 07:54:20,173 INFO Done. Processed 2 unread messages.

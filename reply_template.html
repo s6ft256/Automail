@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <body style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">
+    <p>Dear {{ name }},</p>
+    <p>Thanks for reaching out. This is an automated confirmation that we received your email{{ ' about "' ~ subject ~ '"' if subject }}.</p>
+    <p>We'll get back to you as soon as possible. If you need immediate assistance, reply to this email and a human will follow up.</p>
+    <p>Best regards,<br/>
+    Automail Bot</p>
+    <hr style="border: none; border-top: 1px solid #ddd;" />
+    <small>This message was generated automatically for {{ email }}. Please do not include sensitive information.</small>
+  </body>
+  
+</html>
